@@ -33,7 +33,7 @@ Here are some ideas to get you started:
 
 ```json
 {
-  "languages": ["Java", "Javascript", "Typescript"],
+  "languages": ["Java", "Javascript", "C"],
   "frameworks/libraries": {
     "backend": ["Spring"],
     "others": ["HTML5", "CSS"]
