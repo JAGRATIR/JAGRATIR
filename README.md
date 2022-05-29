@@ -1,4 +1,6 @@
-### Hi there 👋
+     ![] (https://github.com/JAGRATIR/JAGRATIR/blob/main/giffy.webp)
+                                                  ### Hi 👋, I'm Jagrati
+    __________________________________________________________________________________________________________________________
 
 <!--
 **JAGRATIR/JAGRATIR** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +16,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+- 🔭 I’m currently working on building up my skills.
+- 🌱 I’m currently learning SpringBoot.
+- 👯 I’m looking to collaborate on SpringBoot project
+- 📫 How to reach me
+- 😄 Pronouns: ...
+- ⚡ Fun fact: ...
